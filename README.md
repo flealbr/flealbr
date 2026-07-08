@@ -1,85 +1,109 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6b00&height=120&section=header"/>
+img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
+
+<br>
 
 <div align="center">
-
-# 👋 Olá, eu sou Fellipe Leal
-
-### Full Stack Developer • Aviation Systems • UI/UX
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Vue;Supabase+%7C+Node.js+%7C+TypeScript;Building+Aviation+Systems+✈️" />
-
-</div>
-
----
-
-# 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,nodejs,python,supabase,postgres,mysql,tailwind,html,css,git,github,vscode,figma" />
-
-</div>
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flealbr&theme=github_dark" width="100%"/>
-
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
 </div>
 
 <div align="center">
+  
+  <b>`Dev Fullstack`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Fellipe Leal</b>
+  </samp>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flealbr&theme=github_dark" width="49%"/>
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flealbr&theme=github_dark" width="49%"/>
+<br>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/kami_♡-black" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=flealbrl&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=flealbrl&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flealbrl&theme=radical"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/km.medino/?next=%2F)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  
 </div>
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flealbr&theme=github_dark" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flealbr&theme=github_dark&utcOffset=-3" width="49%"/>
-
+  <p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+        <a href="https://linktr.ee/flealbrl1">linktr.ee</a> ⊹
+        <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+      </samp>
+  </p>
 </div>
+<br>
 
----
+</details>
 
-# 🐍 Contribution Snake
+##
+
+<br>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/flealbr/flealbr/output/github-contribution-grid-snake-dark.svg"/>
-
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=flealbrl&style=flat-square&color=8f2c5b" /></p> 
 </div>
 
----
+<br>
 
-# 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=flealbr&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🌎 Connect with me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:SEUEMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6b00&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>

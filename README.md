@@ -1,51 +1,85 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6b00&height=120&section=header"/>
+
+<div align="center">
+
 # 👋 Olá, eu sou Fellipe Leal
 
-💻 Desenvolvedor Full Stack  
-🚀 Apaixonado por tecnologia, automação e desenvolvimento de sistemas.
+### Full Stack Developer • Aviation Systems • UI/UX
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Vue;Supabase+%7C+Node.js+%7C+TypeScript;Building+Aviation+Systems+✈️" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flealbr&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flealbr&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,nodejs,python,supabase,postgres,mysql,tailwind,html,css,git,github,vscode,figma" />
 
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=flealbr&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 🐍 Minhas contribuições
+# 📊 GitHub
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/flealbr/flealbr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flealbr&theme=github_dark" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flealbr&theme=github_dark" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flealbr&theme=github_dark" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flealbr&theme=github_dark" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flealbr&theme=github_dark&utcOffset=-3" width="49%"/>
+
+</div>
 
 ---
 
-## 🚀 Tecnologias
+# 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,python,java,html,css,tailwind,supabase,postgres,mysql,git,github,vscode,figma" />
+<img src="https://raw.githubusercontent.com/flealbr/flealbr/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
-
----
-
-## 🌎 Contato
-
-- 📧 seuemail@email.com
-- 💼 LinkedIn
-- 🌐 Portfólio
+</div>
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+# 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=flealbr&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌎 Connect with me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6b00&height=120&section=footer"/>

@@ -32,7 +32,12 @@
 
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flealbr&theme=radical"/>
 </div>
-
+<br>
+<div align="center">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/flealbr/flealbr/output/github-contribution-grid-snake.svg" />
+  </p>
+</div>
 <br>
 
 <h2 align="center">🚀 Techs</h2>
@@ -67,12 +72,3 @@
 
 <br><br>
 
-<h2 align="center">🐍 GitHub Snake</h2>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/flealbr/flealbr/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<br>

@@ -35,12 +35,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/flealbr/flealbr/output/github-contribution-grid-snake.svg" />
-</div>
-
-<br>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,vue,nodejs,supabase,git,github,vscode,discord,figma,ps&perline=8"/>
 </p>
